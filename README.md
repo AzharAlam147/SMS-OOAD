@@ -1,4 +1,4 @@
-# SMS-OOAD
+# School Management System-OOAD
 A project based on Object Oriented Analysis and Design
 
 # Project
